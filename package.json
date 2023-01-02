@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-demo1",
+  "version": "1.0.0",
+  "description": "demo nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('it is working')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieu-22/nodejs-demo-hieu.git"
+  },
+  "keywords": [
+    "demo nodejs",
+    "nodejs demo"
+  ],
+  "author": "hieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieu-22/nodejs-demo-hieu/issues"
+  },
+  "homepage": "https://github.com/hieu-22/nodejs-demo-hieu#readme"
+}
